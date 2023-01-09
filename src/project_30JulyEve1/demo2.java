@@ -1,8 +1,8 @@
 package project_30JulyEve1;
 
-public class demo1
+public class demo2 
 {
 public static void main(String[] args) {
-	System.out.println("hello");
+	System.out.println("i am harshali");
 }
 }
